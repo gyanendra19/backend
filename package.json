@@ -4,7 +4,7 @@
   "description": "QuadB",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Gyanendra Verma",
   "license": "ISC",
