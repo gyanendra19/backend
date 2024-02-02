@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "QuadB",
   "main": "index.js",
-  "engines": {
-    "node": "20.x"
-  },
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "Gyanendra Verma",
   "license": "ISC",
